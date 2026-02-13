@@ -1,0 +1,38 @@
+[
+  {
+    "post_id": 101,
+    "author_name": "Maroa Shaban",
+    "author_avatar": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/images/user1.png",
+    "time_ago": "9 hours ago",
+    "post_type": "dua_image", 
+    "content": {
+      "title": "Attain Well-being in This World and the Hereafter",
+      "arabic_text": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ",
+      "translation": "O Allah, I ask You for well-being in this world and the Hereafter.",
+      "description": "Ye dua padhne se Allah duniya aur akhirat dono mein sukoon deta hai..."
+    },
+    "media": {
+      "image_url": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/images/dua_hands.jpg",
+      "lottie_url": null,
+      "click_action_url": "https://islamicwebsite.com/dua-details"
+    }
+  },
+  {
+    "post_id": 102,
+    "author_name": "Admin",
+    "author_avatar": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/images/admin.png",
+    "time_ago": "2 hours ago",
+    "post_type": "announcement",
+    "content": {
+      "title": "Ramadan Coming Soon!",
+      "arabic_text": "",
+      "translation": "",
+      "description": "Tayyari shuru kar dein. Sirf 30 din bache hain."
+    },
+    "media": {
+      "image_url": "",
+      "lottie_url": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/lottie/ramadan_lamp.json",
+      "click_action_url": ""
+    }
+  }
+]
