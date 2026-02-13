@@ -1,26 +1,25 @@
 {
-  "app_settings": {
-    "latest_version_code": 2,
+  "app_version": {
+    "code": 1,
     "force_update": false,
-    "update_url": "https://play.google.com/store/apps/details?id=com.your.app",
+    "update_url": "https://play.google.com/store/apps/details?id=com.myislamicapp",
     "maintenance_mode": false,
-    "maintenance_message": "Server update chal raha hai. Kripya 1 ghante baad koshish karein."
+    "maintenance_message": "Server update chal raha hai. Kripya thodi der baad aana."
   },
-  
+  "features": {
+    "show_stories": true,
+    "show_feed": true,
+    "security_check": true
+  },
   "home_notification": {
     "show_alert": true,
-    "title": "Jumma Mubarak!",
-    "message": "Aaj Surah Kahf padhna na bhulein.",
+    "title": "Welcome!",
+    "message": "Assalamu Alaikum, Aaj Surah Kahf padhna na bhulein.",
     "action_url": ""
   },
-
-  "api_links": {
-    "feed_url": "https://github.com/raazx2026-oss/muslim/raw/refs/heads/main/data/feed.json",
-    "categories_url": "https://github.com/raazx2026-oss/muslim/raw/refs/heads/main/data/categories.json"
-  },
-
-  "global_assets": {
-    "splash_lottie": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/lottie/splash_anim.json",
-    "loading_lottie": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/lottie/loading.json"
+  "data_sources": {
+    "categories_json": "https://raw.githubusercontent.com/YOUR_USERNAME/REPO_NAME/main/data/categories.json",
+    "feed_json": "https://raw.githubusercontent.com/YOUR_USERNAME/REPO_NAME/main/data/feed.json",
+    "security_lib_url": "https://raw.githubusercontent.com/YOUR_USERNAME/REPO_NAME/main/data/security_config.txt"
   }
 }
