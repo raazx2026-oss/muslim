@@ -1,24 +1,32 @@
 [
   {
     "cat_id": 1,
-    "title": "Tasbih Counter",
-    "thumbnail_url": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/images/tasbih_bg.jpg",
-    "target_activity": "ACTIVITY_TASBIH",
-    "is_locked": false
+    "title": "Quran",
+    "thumbnail_url": "https://cdn-icons-png.flaticon.com/512/3043/3043621.png",
+    "target_activity": "ACTIVITY_QURAN"
   },
   {
     "cat_id": 2,
-    "title": "Qibla Finder",
-    "thumbnail_url": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/images/compass_bg.jpg",
-    "target_activity": "ACTIVITY_QIBLA",
-    "is_locked": false
+    "title": "Hadith",
+    "thumbnail_url": "https://cdn-icons-png.flaticon.com/512/3655/3655562.png",
+    "target_activity": "ACTIVITY_HADITH"
   },
   {
     "cat_id": 3,
-    "title": "40 Hadith",
-    "thumbnail_url": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/images/book_bg.jpg",
-    "target_activity": "ACTIVITY_PDF_VIEWER",
-    "pdf_link": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/pdfs/hadith.pdf",
-    "is_locked": true
+    "title": "Tasbih",
+    "thumbnail_url": "https://cdn-icons-png.flaticon.com/512/4358/4358742.png",
+    "target_activity": "ACTIVITY_TASBIH"
+  },
+  {
+    "cat_id": 4,
+    "title": "Qibla",
+    "thumbnail_url": "https://cdn-icons-png.flaticon.com/512/3214/3214749.png",
+    "target_activity": "ACTIVITY_QIBLA"
+  },
+  {
+    "cat_id": 5,
+    "title": "Duas",
+    "thumbnail_url": "https://cdn-icons-png.flaticon.com/512/2883/2883077.png",
+    "target_activity": "ACTIVITY_DUAS"
   }
 ]
