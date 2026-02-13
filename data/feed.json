@@ -1,38 +1,50 @@
 [
   {
     "post_id": 101,
-    "author_name": "Maroa Shaban",
-    "author_avatar": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/images/user1.png",
-    "time_ago": "9 hours ago",
-    "post_type": "dua_image", 
+    "author_name": "Islamic Reminders",
+    "author_avatar": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+    "time_ago": "2 hours ago",
     "content": {
-      "title": "Attain Well-being in This World and the Hereafter",
-      "arabic_text": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ",
-      "translation": "O Allah, I ask You for well-being in this world and the Hereafter.",
-      "description": "Ye dua padhne se Allah duniya aur akhirat dono mein sukoon deta hai..."
+      "title": "Jumma Mubarak",
+      "arabic_text": "إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ",
+      "translation": "Beshak Allah aur uske farishte Nabi (SAW) par durood bhejte hain.",
+      "description": "Aaj ke din Durood shareef ki kasrat karein."
     },
     "media": {
-      "image_url": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/images/dua_hands.jpg",
-      "lottie_url": null,
-      "click_action_url": "https://islamicwebsite.com/dua-details"
+      "image_url": "",
+      "lottie_url": "https://assets10.lottiefiles.com/packages/lf20_p8bfn5to.json"
     }
   },
   {
     "post_id": 102,
-    "author_name": "Admin",
-    "author_avatar": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/images/admin.png",
-    "time_ago": "2 hours ago",
-    "post_type": "announcement",
+    "author_name": "Daily Hadith",
+    "author_avatar": "https://cdn-icons-png.flaticon.com/512/3135/3135768.png",
+    "time_ago": "5 hours ago",
     "content": {
-      "title": "Ramadan Coming Soon!",
-      "arabic_text": "",
-      "translation": "",
-      "description": "Tayyari shuru kar dein. Sirf 30 din bache hain."
+      "title": "Sabar Ka Phal",
+      "arabic_text": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+      "translation": "Allah sabar karne walon ke saath hai.",
+      "description": "Mushkil waqt mein ghabrana nahi chahiye."
     },
     "media": {
-      "image_url": "",
-      "lottie_url": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/lottie/ramadan_lamp.json",
-      "click_action_url": ""
+      "image_url": "https://images.unsplash.com/photo-1542382156909-9ae37b3f56fd?w=600&q=80",
+      "lottie_url": ""
+    }
+  },
+  {
+    "post_id": 103,
+    "author_name": "Admin",
+    "author_avatar": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+    "time_ago": "Just now",
+    "content": {
+      "title": "App Update",
+      "arabic_text": "",
+      "translation": "",
+      "description": "Humne app mein naye features add kiye hain. Check karein!"
+    },
+    "media": {
+      "image_url": "https://images.unsplash.com/photo-1555685812-4b943f3abc60?w=600&q=80",
+      "lottie_url": ""
     }
   }
 ]
