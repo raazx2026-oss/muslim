@@ -1,7 +1,7 @@
 {
   "app_version": {
     "code": 1,
-    "force_update": false,
+    "force_update": true,
     "update_url": "https://play.google.com/store/apps/details?id=com.myislamicapp",
     "maintenance_mode": true,
     "maintenance_message": "Server update chal raha hai. Kripya thodi der baad aana."
@@ -12,7 +12,7 @@
     "security_check": true
   },
   "home_notification": {
-    "show_alert": true,
+    "show_alert": false,
     "title": "Welcome!",
     "message": "Assalamu Alaikum, Aaj Surah Kahf padhna na bhulein.",
     "action_url": ""
