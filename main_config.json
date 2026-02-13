@@ -1,0 +1,26 @@
+{
+  "app_settings": {
+    "latest_version_code": 2,
+    "force_update": false,
+    "update_url": "https://play.google.com/store/apps/details?id=com.your.app",
+    "maintenance_mode": false,
+    "maintenance_message": "Server update chal raha hai. Kripya 1 ghante baad koshish karein."
+  },
+  
+  "home_notification": {
+    "show_alert": true,
+    "title": "Jumma Mubarak!",
+    "message": "Aaj Surah Kahf padhna na bhulein.",
+    "action_url": ""
+  },
+
+  "api_links": {
+    "feed_url": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/data/feed.json",
+    "categories_url": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/data/categories.json"
+  },
+
+  "global_assets": {
+    "splash_lottie": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/lottie/splash_anim.json",
+    "loading_lottie": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/lottie/loading.json"
+  }
+}
