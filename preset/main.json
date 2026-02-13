@@ -2,51 +2,66 @@
   "presets": [
     {
       "title": "Urban Teal & Orange",
-      "category": "Premium",
+      "category": "Latest",
       "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=500&q=60",
-      "tag": "Most Popular"
+      "tag": "Most Popular",
+      "description": "यह प्रीसेट आपकी शहरी तस्वीरों को एक प्रोफेशनल Teal और Orange लुक देता है। इसमें हाई कंट्रास्ट और सिनेमैटिक कलर्स का इस्तेमाल किया गया है जो स्ट्रीट फोटोग्राफी के लिए बेस्ट है।",
+      "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "downloadUrl": "https://example.com/urban_teal.dng"
     },
     {
-      "title": "Moody Black & White",
+      "title": "Moody Dark Black",
       "category": "Trendy",
       "imageUrl": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?auto=format&fit=crop&w=500&q=60",
-      "tag": "Trendy"
-    },
-    {
-      "title": "Soft Pink Pastel",
-      "category": "Latest",
-      "imageUrl": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=500&q=60",
-      "tag": "New"
-    },
-    {
-      "title": "Dark Cinematic",
-      "category": "Cinematic",
-      "imageUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=500&q=60",
-      "tag": "Pro"
-    },
-    {
-      "title": "Nature Bright",
-      "category": "Premium",
-      "imageUrl": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=500&q=60",
-      "tag": "VIP"
-    },
-    {
-      "title": "Vintage Film",
-      "category": "Trendy",
-      "imageUrl": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?auto=format&fit=crop&w=500&q=60",
-      "tag": "Classic"
-    },
-    {
-      "title": "Cyberpunk Neon",
-      "category": "Cinematic",
-      "imageUrl": "https://images.unsplash.com/photo-1552168324-d612d77725e3?auto=format&fit=crop&w=500&q=60",
-      "tag": "Night"
+      "tag": "Trendy",
+      "description": "अगर आपको डार्क और मूडी वाइब पसंद है, तो यह ब्लैक टोन प्रीसेट आपके लिए है। यह स्किन टोन को बचाते हुए बैकग्राउंड को गहरा काला और ग्रे शेड देता है।",
+      "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "downloadUrl": "https://example.com/moody_black.dng"
     },
     {
       "title": "Golden Hour Glow",
-      "category": "Latest",
+      "category": "Premium",
       "imageUrl": "https://images.unsplash.com/photo-1504194921103-f8b80cadd5e4?auto=format&fit=crop&w=500&q=60",
-      "tag": "Hot"
+      "tag": "VIP",
+      "description": "शाम की सुनहरी धूप वाली तस्वीरों के लिए सबसे बेहतरीन प्रीसेट। यह फोटो में वार्म यलो और ऑरेंज टोन जोड़ता है जिससे फोटो काफी अट्रैक्टिव लगती है।",
+      "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "downloadUrl": "https://example.com/golden_glow.dng"
+    },
+    {
+      "title": "Soft Pastel Pink",
+      "category": "Latest",
+      "imageUrl": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=500&q=60",
+      "tag": "New",
+      "description": "यह एक सॉफ्ट और ब्राइट प्रीसेट है जो तस्वीरों में हल्का पिंक और पेस्टल शेड जोड़ता है। पोर्ट्रेट और फ्लावर फोटोग्राफी के लिए एकदम सही चुनाव।",
+      "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "downloadUrl": "https://example.com/pastel_pink.dng"
+    },
+    {
+      "title": "Cinematic Night",
+      "category": "Cinematic",
+      "imageUrl": "https://images.unsplash.com/photo-1552168324-d612d77725e3?auto=format&fit=crop&w=500&q=60",
+      "tag": "Pro",
+      "description": "रात की लाइटों और नियॉन कलर्स को उभारने के लिए इस सिनेमैटिक प्रीसेट का उपयोग करें। यह फोटो के डार्क एरिया को शार्प और कलर्स को वाइब्रेंट बनाता है।",
+      "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "downloadUrl": "https://example.com/cine_night.dng"
+    },
+    {
+      "title": "LMC XML Pro",
+      "category": "LMC Xml",
+      "imageUrl": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=500&q=60",
+      "tag": "XML",
+      "description": "यह एक खास LMC XML फाइल है जो आपके कैमरा की क्वालिटी को DSLR जैसा बना देगी। इसे इस्तेमाल करने के लिए LMC कैमरा का होना जरूरी है।",
+      "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "downloadUrl": "https://example.com/lmc_pro.xml"
+    },
+    {
+      "title": "Capcut Glow Template",
+      "category": "Capcut Template",
+      "imageUrl": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?auto=format&fit=crop&w=500&q=60",
+      "tag": "Template",
+      "description": "Capcut के लिए लेटेस्ट ट्रेंडिंग वीडियो टेम्पलेट। बस अपनी फोटो डालें और एक क्लिक में वायरल रील तैयार करें।",
+      "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "downloadUrl": "https://example.com/capcut_template_link"
     }
   ]
 }
