@@ -1,0 +1,24 @@
+[
+  {
+    "cat_id": 1,
+    "title": "Tasbih Counter",
+    "thumbnail_url": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/images/tasbih_bg.jpg",
+    "target_activity": "ACTIVITY_TASBIH",
+    "is_locked": false
+  },
+  {
+    "cat_id": 2,
+    "title": "Qibla Finder",
+    "thumbnail_url": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/images/compass_bg.jpg",
+    "target_activity": "ACTIVITY_QIBLA",
+    "is_locked": false
+  },
+  {
+    "cat_id": 3,
+    "title": "40 Hadith",
+    "thumbnail_url": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/images/book_bg.jpg",
+    "target_activity": "ACTIVITY_PDF_VIEWER",
+    "pdf_link": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/assets/pdfs/hadith.pdf",
+    "is_locked": true
+  }
+]
