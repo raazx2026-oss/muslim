@@ -3,7 +3,7 @@
     "latest_version_code": 2,
     "force_update": false,
     "update_url": "https://play.google.com/store/apps/details?id=com.your.app",
-    "maintenance_mode": false,
+    "maintenance_mode": true,
     "maintenance_message": "Server update chal raha hai. Kripya 1 ghante baad koshish karein."
   },
   
