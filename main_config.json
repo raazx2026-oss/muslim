@@ -15,7 +15,7 @@
   },
 
   "api_links": {
-    "feed_url": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/data/feed.json",
+    "feed_url": "https://github.com/raazx2026-oss/muslim/raw/refs/heads/main/data/feed.json",
     "categories_url": "https://raw.githubusercontent.com/YOUR_USER/REPO/main/data/categories.json"
   },
 
