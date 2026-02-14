@@ -1,0 +1,207 @@
+{
+  "app_info": {
+    "name": "Islamic Status",
+    "version": "1.0.0",
+    "description": "Muslim Social Community App",
+    "last_updated": "2024-02-14"
+  },
+  
+  "categories": [
+    {
+      "id": 1,
+      "name": "Islam And Peace",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/category_peace.jpg",
+      "description": "Islamic teachings about peace and harmony"
+    },
+    {
+      "id": 2,
+      "name": "Prophecy, Death...",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/category_prophecy.jpg",
+      "description": "Prophecies and afterlife in Islam"
+    },
+    {
+      "id": 3,
+      "name": "Quran Recitation",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/category_quran.jpg",
+      "description": "Beautiful Quran recitations by famous Qaris"
+    },
+    {
+      "id": 4,
+      "name": "Islamic Lectures",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/category_lectures.jpg",
+      "description": "Educational Islamic lectures"
+    },
+    {
+      "id": 5,
+      "name": "Prayer Times",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/category_prayer.jpg",
+      "description": "Learn about prayer times and importance"
+    },
+    {
+      "id": 6,
+      "name": "Ramadan Special",
+      "imageUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/category_ramadan.jpg",
+      "description": "Special content for Ramadan"
+    }
+  ],
+  
+  "videos": [
+    {
+      "id": 101,
+      "title": "Peace in Islam - Complete Lecture",
+      "speaker": "Umar Ali",
+      "speaker_bio": "Renowned Islamic scholar and speaker",
+      "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/thumb_umar_peace.jpg",
+      "videoUrl": "https://www.example.com/videos/peace_in_islam.mp4",
+      "duration": "45:30",
+      "views": "125K",
+      "likes": "15K",
+      "category_id": 1,
+      "upload_date": "2024-01-15",
+      "description": "Comprehensive lecture on how Islam promotes peace"
+    },
+    {
+      "id": 102,
+      "title": "Prophecies of Prophet Muhammad (PBUH)",
+      "speaker": "Dr Israr Ahmad",
+      "speaker_bio": "Famous Islamic scholar and philosopher",
+      "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/thumb_dr_israr_prophecy.jpg",
+      "videoUrl": "https://www.example.com/videos/prophecies.mp4",
+      "duration": "52:15",
+      "views": "250K",
+      "likes": "32K",
+      "category_id": 2,
+      "upload_date": "2024-01-10",
+      "description": "Detailed analysis of Prophet Muhammad's prophecies"
+    },
+    {
+      "id": 103,
+      "title": "Death and Afterlife in Islam",
+      "speaker": "Dr Zakir Naik",
+      "speaker_bio": "International Islamic orator",
+      "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/thumb_zakir_death.jpg",
+      "videoUrl": "https://www.example.com/videos/death_afterlife.mp4",
+      "duration": "38:45",
+      "views": "180K",
+      "likes": "22K",
+      "category_id": 2,
+      "upload_date": "2024-01-05",
+      "description": "Understanding death and what comes after"
+    },
+    {
+      "id": 104,
+      "title": "Beautiful Quran Recitation - Surah Yaseen",
+      "speaker": "Qari Abdul Basit",
+      "speaker_bio": "Famous Egyptian Qari",
+      "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/thumb_qari_yaseen.jpg",
+      "videoUrl": "https://www.example.com/videos/surah_yaseen.mp4",
+      "duration": "15:20",
+      "views": "500K",
+      "likes": "65K",
+      "category_id": 3,
+      "upload_date": "2024-01-20",
+      "description": "Beautiful recitation of Surah Yaseen"
+    },
+    {
+      "id": 105,
+      "title": "Importance of Prayer in Islam",
+      "speaker": "Mufti Menk",
+      "speaker_bio": "Popular Islamic speaker from Zimbabwe",
+      "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/thumb_menk_prayer.jpg",
+      "videoUrl": "https://www.example.com/videos/importance_prayer.mp4",
+      "duration": "28:50",
+      "views": "320K",
+      "likes": "41K",
+      "category_id": 5,
+      "upload_date": "2024-01-18",
+      "description": "Why prayer is important in daily Muslim life"
+    },
+    {
+      "id": 106,
+      "title": "Ramadan Preparation Guide",
+      "speaker": "Nouman Ali Khan",
+      "speaker_bio": "Founder of Bayyinah Institute",
+      "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/thumb_nouman_ramadan.jpg",
+      "videoUrl": "https://www.example.com/videos/ramadan_prep.mp4",
+      "duration": "42:10",
+      "views": "210K",
+      "likes": "28K",
+      "category_id": 6,
+      "upload_date": "2024-01-12",
+      "description": "How to prepare for the holy month of Ramadan"
+    },
+    {
+      "id": 107,
+      "title": "Stories of the Prophets",
+      "speaker": "Omar Suleiman",
+      "speaker_bio": "President of Yaqeen Institute",
+      "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/thumb_omar_prophets.jpg",
+      "videoUrl": "https://www.example.com/videos/stories_prophets.mp4",
+      "duration": "55:30",
+      "views": "150K",
+      "likes": "19K",
+      "category_id": 4,
+      "upload_date": "2024-01-08",
+      "description": "Inspiring stories of prophets in Islam"
+    },
+    {
+      "id": 108,
+      "title": "Surah Rahman - Emotional Recitation",
+      "speaker": "Qari Sudais",
+      "speaker_bio": "Imam of Masjid al-Haram",
+      "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/thumb_sudais_rahman.jpg",
+      "videoUrl": "https://www.example.com/videos/surah_rahman.mp4",
+      "duration": "22:15",
+      "views": "1.2M",
+      "likes": "150K",
+      "category_id": 3,
+      "upload_date": "2024-01-22",
+      "description": "Emotional recitation of Surah Ar-Rahman"
+    }
+  ],
+  
+  "featured": {
+    "video_ids": [101, 104, 108],
+    "category_ids": [1, 3, 6]
+  },
+  
+  "settings": {
+    "enable_notifications": true,
+    "default_theme": "light",
+    "language": "en",
+    "auto_play": false,
+    "download_enabled": true
+  },
+  
+  "social_links": [
+    {
+      "platform": "Facebook",
+      "url": "https://facebook.com/islamicstatus",
+      "icon": "facebook"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/islamicstatus",
+      "icon": "twitter"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://instagram.com/islamicstatus",
+      "icon": "instagram"
+    },
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/islamicstatus",
+      "icon": "telegram"
+    }
+  ],
+  
+  "about": {
+    "app_name": "Islamic Status",
+    "developer": "Muslim Social Team",
+    "email": "contact@islamicstatus.com",
+    "website": "https://www.islamicstatus.com",
+    "privacy_policy": "https://www.islamicstatus.com/privacy",
+    "terms": "https://www.islamicstatus.com/terms"
+  }
+}
