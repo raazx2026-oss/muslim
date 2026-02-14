@@ -1,9 +1,9 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "maintenance_message": "Server is currently under maintenance for a new update. Please try again in a few hours! 🛠️",
   "app_version": 1,
   "update_url": "https://your-website.com/bgmi-gfx-v2.apk",
-  "how_to_use_url": "https://youtube.com/shorts/your_video_id",
+  "how_to_use_url": "https://youtu.be/rtkOBtbKCl8?si=iH3smBQJitybfSHf",
   "file_60fps": "https://github.com/raazx2026-oss/muslim/releases/download/Config/files.7z",
   "file_90fps": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/90fps.zip",
   "file_120fps": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/120fps.zip"
