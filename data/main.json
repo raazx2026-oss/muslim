@@ -1,5 +1,5 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "maintenance_message": "Server is currently under maintenance for a new update. Please try again in a few hours! 🛠️",
   "app_version": 1,
   "update_url": "https://your-website.com/bgmi-gfx-v2.apk",
