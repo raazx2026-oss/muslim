@@ -1,0 +1,49 @@
+{
+  "admin_email": "raazx2026@gmail.com",
+  "merchant_upi": "8406962570@upi",
+  "merchant_qr": "https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=upi://pay?pa=8406962570@upi&pn=BGMIStore",
+  
+  "posts": [
+    {
+      "title": "BGMI 3.1 Update is Here!",
+      "desc": "The new 3.1 update brings the highly anticipated Nimbus Island, flying ships, and magical portals. Check out the patch notes now.",
+      "image": "https://dummyimage.com/600x400/0078FF/FFFFFF&text=BGMI+3.1+Update",
+      "link": "https://esportsgen.com/bgmi-news"
+    },
+    {
+      "title": "BGIS 2026 Registrations Open",
+      "desc": "Battlegrounds Mobile India Series is back with a massive prize pool. Register your squad today before the deadline.",
+      "image": "https://dummyimage.com/600x400/FF3D00/FFFFFF&text=BGIS+2026",
+      "link": "https://esports.battlegroundsmobileindia.com/"
+    },
+    {
+      "title": "New X-Suit Leaks",
+      "desc": "Data miners have revealed the upcoming ultimate X-Suit. Save your UC for this amazing drop coming next week.",
+      "image": "https://dummyimage.com/600x400/6200EA/FFFFFF&text=New+X-Suit",
+      "link": "https://google.com"
+    }
+  ],
+  
+  "uc_packs": [
+    {
+      "title": "60 UC Basic Pack",
+      "price": "75",
+      "image": "https://dummyimage.com/200x200/FF9800/FFFFFF&text=60+UC"
+    },
+    {
+      "title": "300 + 25 UC Premium",
+      "price": "380",
+      "image": "https://dummyimage.com/200x200/FF9800/FFFFFF&text=325+UC"
+    },
+    {
+      "title": "600 + 60 UC Elite",
+      "price": "750",
+      "image": "https://dummyimage.com/200x200/FF9800/FFFFFF&text=660+UC"
+    },
+    {
+      "title": "1500 + 300 UC Pro",
+      "price": "1900",
+      "image": "https://dummyimage.com/200x200/FF9800/FFFFFF&text=1800+UC"
+    }
+  ]
+}
